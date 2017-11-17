@@ -1,6 +1,6 @@
 # Delivery process
 
-To set ourselves up for success for the quarter we are working on this engagement (and set up our partner for continued success once we leave), we apply a subset of [the Scaled Agile Framework](http://www.scaledagileframework.com/) (SAFe) to guide our work, as described in [Essential SAFe](http://www.scaledagileframework.com/guidance-essential-safe/). We set goals and prioritize work in three month periods called "program increments," or PIs, and practice a number of SAFe rituals around this quarterly cadence.
+To set ourselves up for success for the quarter we are working on this engagement (and set up our partner for continued success once we leave), we apply a subset of [the Scaled Agile Framework](http://www.scaledagileframework.com/) (SAFe) to guide our work, as described in [Essential SAFe](http://www.scaledagileframework.com/what-is-safe#Essential). We set goals and prioritize work in three month periods called "program increments," or PIs, and practice a number of SAFe rituals around this quarterly cadence.
 
 To manage our day-to-day work, we practice Scrumban, which means we practice [Kanban](http://blog.crisp.se/2009/06/26/henrikkniberg/1246053060000) around cardwall-style boards that track work from left-to-right as it is identified, prioritized, explored, delivered, and demonstrated. We augment Kanban with a subset of Scrum activities, including: 
 
