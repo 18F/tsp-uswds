@@ -1,0 +1,37 @@
+# Whether to show the "Return to top" link; can also be
+# configured as an object with 'text' and 'href' properties.
+top: true
+
+# Which links to show at the top of the footer.
+# This can key into _data/navigation.yml or a list of link objects
+# with 'text' and 'href' properties.
+links: footer
+
+# The optional heading for the footer.
+heading: Thrift Savings Plan
+
+# An array of agency logos to show, side by side, in the lower left
+# of the footer on large screens.
+# If the logo is external add external: true
+logos:
+  - src: /assets/uswds/img/logo-img.png
+    alt: Logo image
+
+contact:
+  links:
+    - type: facebook
+      href: https://tsp.gov/
+      external: true
+    - type: twitter
+      href: https://tsp.gov/
+      external: true
+    - type: youtube
+      href: https://tsp.gov/
+      external: true
+    - type: rss
+      href: https://tsp.gov/
+      external: true
+
+  heading: Agency Contact Center
+  address: |
+    (800) CALL-GOVT
