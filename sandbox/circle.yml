@@ -1,0 +1,16 @@
+general:
+  build_dir: sandbox
+
+machine:
+  environment:
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+
+dependencies:
+  post:
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - aws s3 sync ./_site s3://tspdev.gov/sandbox/ --dryrun
