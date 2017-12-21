@@ -9,8 +9,12 @@ dependencies:
   post:
     - bundle exec jekyll build
 
+test:
+  post:
+    - bundle exec htmlproofer _site --check-html --allow-hash-href --empty-alt-ignore --disable-external
+
 deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync ./_site s3://tspdev.gov/sandbox/ --dryrun
+      - aws s3 sync ./_site s3://tspdev.gov/sandbox/ --delete --dryrun
