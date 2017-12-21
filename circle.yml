@@ -10,8 +10,8 @@ dependencies:
     - bundle exec jekyll build
 
 test:
-  post:
-    - bundle exec htmlproofer _site --check-html --allow-hash-href --empty-alt-ignore --disable-external
+  override:
+    - echo "Tests disabled."
 
 deployment:
   prod:
