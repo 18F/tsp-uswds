@@ -1,0 +1,61 @@
+$h1-font-size: 4rem;
+$h2-font-size: 3rem;
+$h3-font-size: 2rem;
+$h4-font-size: 1.7rem;
+$h5-font-size: 1.5rem;
+$h6-font-size: 1.3rem;
+
+$font-sans: Helvetica, Arial, sans-serif;
+$font-serif: $font-sans;
+
+$font-normal: 400;
+$font-bold: 700;
+
+$color-blue: #003865;
+$color-blue-darker: darken($color-blue, 3%);
+$color-blue-darkest: darken($color-blue, 5%);
+
+$color-aqua: #00B5E2;
+$color-aqua-dark: darken($color-aqua, 5%);
+$color-aqua-darkest: darken($color-aqua, 10%);
+$color-aqua-light: #99D6EA;
+$color-aqua-lightest: lighten($color-aqua-light, 10%);
+
+$color-base: #222223;
+
+$small-screen:  481px;
+$medium-screen: 600px;
+$large-screen:  951px;
+
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+
+$spacing-x-small: 0.5rem;
+$spacing-small: 1rem;
+$spacing-md-small: 1.5rem;
+$spacing-medium: 2rem;
+$spacing-large: 3rem;
+
+// Basscss
+
+$bold-font-weight: $font-bold;
+
+$breakpoint-sm: '(min-width: #{$small-screen})';
+$breakpoint-md: '(min-width: #{$medium-screen})';
+$breakpoint-lg: '(min-width: #{$large-screen})';
+
+$breakpoint-xs: '(max-width: #{$small-screen})';
+$breakpoint-sm-md: '(min-width: #{$small-screen}) and (max-width: #{$medium-screen})';
+$breakpoint-md-lg: '(min-width: #{$medium-screen}) and (max-width: #{$large-screen})';
+
+$h1: $h1-font-size;
+$h2: $h2-font-size;
+$h3: $h3-font-size;
+$h4: $h4-font-size;
+$h5: $h5-font-size;
+$h6: $h6-font-size;
+
+$space-1: $spacing-small;
+$space-2: $spacing-md-small;
+$space-3: $spacing-medium;
+$space-4: $spacing-large;

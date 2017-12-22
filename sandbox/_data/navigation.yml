@@ -10,28 +10,12 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /about/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /about/
-      - text: Demo link B
-        href: /about/
-      - text: Demo link C
-        href: /about/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://tsp.gov
-    external: true
-
-secondary:
-  - text: Documentation
-    href: /about/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: Login
+    href: #
+  - text: Contact
+    href: #
+  - text: Glossary
+    href: #
 
 docs:
   - text: Documentation

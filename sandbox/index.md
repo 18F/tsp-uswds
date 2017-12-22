@@ -4,47 +4,74 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/uswds/img/hero.png
+  image: /assets/img/hero.jpg
   callout:
-    alt: "Hero callout:"
-    text: Call attention to a current priority
+    alt: "Invest in your future:"
+    text: Plan for a lifetime with the TSP
   button:
-    href: /about/
-    text: Learn about what we do
-#  link:
-#    text: Link to more about that priority
-#    href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
+    href: /
+    text: Learn more
+  content: Preparing for retirement can be overwhelming. The Thrift Savings Plan is here to make your life easier.
 
-tagline: A tagline highlights your approach.
-intro: |
-  The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
-
-  Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
-
-graphics:
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Graphic headings can vary.
-    description: Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Stick to 6 or fewer words.
-    description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Never highlight anything without a goal.
-    description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. What do they want to know or do that supports your mission? Use these headings to show those.
 ---
 
-<h2>Section heading</h2>
-<p class="usa-font-lead">Everything up to this point should help people understand your agency or project: who you are, your goal or mission, and how you approach your work. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.</p>
-<a class="usa-button usa-button-big" href="#">Call to action</a>
+<div class="help-grid">
+  <div class="usa-grid-full md-flex">
+    <div class="usa-width-one-half flex flex-column">
+      <h3 class="h2 normal flex">
+        <img src="/assets/img/icons/lock.svg" width="35" alt="" class="mr1">
+        <a href="#">Getting started</a>
+      </h3>
+      <p>Setting up your account.</p>
+      <ul class="flex-auto">
+        <li><a href="#">How do I sign into my account?</a></li>
+        <li><a href="#">Where can I find my TSP account number?</a></li>
+        <li><a href="#">What if I forgot my User ID or password?</a></li>
+        <li><a href="#">How do I update my contact information?</a></li>
+      </ul>
+      <a href="#" class="usa-button block">View all 7 articles</a>
+    </div>
+    <div class="usa-width-one-half flex flex-column">
+      <h3 class="h2 normal flex">
+        <img src="/assets/img/icons/sun.svg" width="35" alt="" class="mr1">
+        <a href="#">I'm retiring</a>
+      </h3>
+      <p>Getting ready for the next phase of your life.</p>
+      <ul class="flex-auto">
+        <li><a href="#">I'm retiring next year. What should I do to prepare?</a></li>
+        <li><a href="#">I got a late start on saving. What can I do to make up for it?</a></li>
+        <li><a href="#">What are my tax treatment options in retirement?</a></li>
+      </ul>
+      <a href="#" class="usa-button block">View all 6 articles</a>
+    </div>
+  </div>
+  <div class="usa-grid-full md-flex">
+    <div class="usa-width-one-half flex flex-column">
+      <h3 class="h2 normal flex">
+        <img src="/assets/img/icons/compass.svg" width="35" alt="" class="mr1">
+        <a href="#">Life events</a>
+      </h3>
+      <p>Preparing for life changes that could affect your contributions.</p>
+      <ul class="flex-auto">
+        <li><a href="#">I'm changing jobs. What do I need to do with my account?</a></li>
+        <li><a href="#">How I manage my TSP account while on Active Duty?</a></li>
+        <li><a href="#">My family makeup is changing. Should I update my information?</a></li>
+      </ul>
+      <a href="#" class="usa-button block">View all 10 articles</a>
+    </div>
+    <div class="usa-width-one-half flex flex-column">
+      <h3 class="h2 normal flex">
+        <img src="/assets/img/icons/users.svg" width="35" alt="" class="mr1">
+        <a href="#">I'm a beneficiary</a>
+      </h3>
+      <p>Understanding my benefits as a beneficiary.</p>
+      <ul class="flex-auto">
+        <li><a href="#">What are my rights as a beneficiary?</a></li>
+        <li><a href="#">Can I combine my existing TSP accounts?</a></li>
+        <li><a href="#">How do I initiate a full withdrawal?</a></li>
+        <li><a href="#">What happens when the primary participant passes away?</a></li>
+      </ul>
+      <a href="#" class="usa-button block">View all 6 articles</a>
+    </div>
+  </div>
+</div>

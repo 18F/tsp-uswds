@@ -1,0 +1,13 @@
+.bg-gray {
+  background-color: #E5E1E6;
+}
+
+.bg-gray-light {
+  background-color: #F2EDF3;
+}
+
+@media (min-width: #{$medium-screen}) {
+  .usa-hero-callout {
+    max-width: 32rem;
+  }
+}
