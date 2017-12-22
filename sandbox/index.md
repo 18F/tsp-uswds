@@ -19,7 +19,7 @@ hero:
   <div class="usa-grid-full md-flex">
     <div class="usa-width-one-half flex flex-column">
       <h3 class="h2 normal flex">
-        <img src="/assets/img/icons/lock.svg" width="35" alt="" class="mr1">
+        <img src="{{ site.baseurl }}/assets/img/icons/lock.svg" width="35" alt="" class="mr1">
         <a href="#">Getting started</a>
       </h3>
       <p>Setting up your account.</p>
@@ -33,7 +33,7 @@ hero:
     </div>
     <div class="usa-width-one-half flex flex-column">
       <h3 class="h2 normal flex">
-        <img src="/assets/img/icons/sun.svg" width="35" alt="" class="mr1">
+        <img src="{{ site.baseurl }}/assets/img/icons/sun.svg" width="35" alt="" class="mr1">
         <a href="#">I'm retiring</a>
       </h3>
       <p>Getting ready for the next phase of your life.</p>
@@ -48,7 +48,7 @@ hero:
   <div class="usa-grid-full md-flex">
     <div class="usa-width-one-half flex flex-column">
       <h3 class="h2 normal flex">
-        <img src="/assets/img/icons/compass.svg" width="35" alt="" class="mr1">
+        <img src="{{ site.baseurl }}/assets/img/icons/compass.svg" width="35" alt="" class="mr1">
         <a href="#">Life events</a>
       </h3>
       <p>Preparing for life changes that could affect your contributions.</p>
@@ -61,7 +61,7 @@ hero:
     </div>
     <div class="usa-width-one-half flex flex-column">
       <h3 class="h2 normal flex">
-        <img src="/assets/img/icons/users.svg" width="35" alt="" class="mr1">
+        <img src="{{ site.baseurl }}/assets/img/icons/users.svg" width="35" alt="" class="mr1">
         <a href="#">I'm a beneficiary</a>
       </h3>
       <p>Understanding my benefits as a beneficiary.</p>
