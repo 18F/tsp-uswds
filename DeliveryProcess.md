@@ -33,3 +33,9 @@ Work-in-progress (WIP) limits help us focus and are generally designated on a pe
 
 In general we use WIP limits to gate how much time and effort we put into grooming cards when we haven't got capacity to do them yet, and to gate how many things we're trying to do at once so that we focus on finishing existing work before starting new work. We don't want individuals to be responsible for more than one or two cards in progress at a time, and we generally like team members to collaborate and pair up to get work done, so our WIP limit for cards actually getting development attention is set intentionally slightly low to encourage this.
 
+
+## Special roles
+
+### Product owner
+
+To support this approach, it is essential that we have the support of a dedicated and empowered product owner within FRTIB who is responsible for representing the project and its deliverables internally while providing consistent access to relevant users and stakeholders. The product owner should also serve as the “champion for the engagement” by offering strategic advice and ensuring the active participation of key stakeholders for the duration of the engagement. We look to the product owner to prioritize research, design, and code deliverables and help shape the overall vision for our work.
