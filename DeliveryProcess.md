@@ -9,13 +9,6 @@ To manage our day-to-day work, we practice Scrumban, which means we practice [Ka
 - Bi-weekly retrospectives so we can celebrate and build on successes, identify and mitigate failure, and get better with each cycle
 - Regular higher-level planning and grooming sessions
  
-## Team
-
-- Anna Heller Sebok, content design
-- Victor Zapanta, research and UX
-- Brian Hurst, frontend development
-- Andrew Suprenant, project manager
-- Kathryn Connolly, account manager
 
 ## Kanban process
 
