@@ -31,6 +31,8 @@ In general we use WIP limits to gate how much time and effort we put into groomi
 
 ### Product owner
 
-To support this approach, it is essential that we have the support of a dedicated and empowered product owner within FRTIB who is responsible for representing the project and its deliverables internally while providing consistent access to relevant users and stakeholders. The product owner should also serve as the “champion for the engagement” by offering strategic advice and ensuring the active participation of key stakeholders for the duration of the engagement. We look to the product owner to prioritize research, design, and code deliverables and help shape the overall vision for our work.
+To support this approach, it is essential that we have the support of a dedicated and empowered product owner within FRTIB who is responsible for representing the project and its deliverables internally while providing consistent access to relevant users and stakeholders. The product owner should also serve as the “champion for the engagement” by offering strategic advice and ensuring the active participation of key stakeholders for the duration of the engagement. 
+
+We look to the product owner to prioritize research, design, and code deliverables and help shape the overall vision for our work. The product owner should also set the vision for various levels of work, including the product, engagement, and sprint while regularly reminding the team of these so they always know what work they are doing and why it is important.
 
 There is more information about the product owner role in the [18F Partnership Playbook](https://18f.gsa.gov/partnership-principles/#partnering-with-an-empowered-product-owner).
