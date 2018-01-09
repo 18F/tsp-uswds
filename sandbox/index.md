@@ -70,6 +70,7 @@ hero:
         <li><a href="#">Can I combine my existing TSP accounts?</a></li>
         <li><a href="#">How do I initiate a full withdrawal?</a></li>
         <li><a href="#">What happens when the primary participant passes away?</a></li>
+        <li><a href="#">How do I change my beneficiary?</a></li>
       </ul>
       <a href="#" class="usa-button block">View all 6 articles &raquo;</a>
     </div>
