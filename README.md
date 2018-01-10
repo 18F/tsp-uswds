@@ -1,4 +1,4 @@
-# Federal Retirement Thrift Investment Board - Thirft Savings Plan (TSP.gov)
+# Federal Retirement Thrift Investment Board - Thrift Savings Plan (TSP.gov)
 
 ## Description
 In collaboration with federal agencies, we want to help federal employees, uniformed service members, and their beneficiaries develop an understanding of their retirement options in order to be engaged in investing through the TSP.
