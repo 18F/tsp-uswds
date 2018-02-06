@@ -49,8 +49,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    uswds-jekyll (2.1.0)
-      jekyll (~> 3.4)
 
 PLATFORMS
   ruby
@@ -58,7 +56,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll_pages_api_search
-  uswds-jekyll
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
