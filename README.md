@@ -9,7 +9,7 @@ FRTIB, the agency that administers the Thrift Savings Plan to help government em
 
 ## Users and stakeholders
 
-FRTIB serves over five million participants (current or former federal employees or members of the military) as well as their beneficiaries. In 2018, the agency is enrolling and transitioning thousands of military service members into the TSP’s new “blended retirement” system, resulting in hundreds of thousands of estimated new users each year. 
+FRTIB serves over five million participants (current or former federal employees, or uniformed service members) as well as their beneficiaries. In the start of 2018, the agency began enrolling and transitioning thousands of uniformed service members into the TSP’s new “blended retirement” system, resulting in an estimate of hundreds of thousands of new users each year. 
 
 FRTIB also coordinates with over 100 payroll offices in the federal government that oversee those employees. In addition to serving users through tsp.gov, FRTIB manages a large volume of phone calls (2.8-3 million in 2017) in its call centers, a number which is likely to increase as users will start retiring in larger amounts. 
 
@@ -19,11 +19,11 @@ In collaboration with federal agencies, we want to help federal employees, unifo
 
 ## Anticipated outcomes
 
-Key outcomes we currently anticipate for this work are:
- - Define users of tsp.gov, including their needs, motivations, and preferences when accessing the site 
- - Develop a vision and roadmap for tsp.gov that outlines design priorities for the site based on user needs, the mission of FRTIB, and stakeholder goals. The roadmap will leverage the U.S. Web Design Standards and other best practices, including agile product development, to recommend specific opportunities for improving the user experience and content for the site
-Provide coaching throughout the engagement that helps FRTIB work in a more agile, open, and human centered way. Examples of this may include developing a repeatable process for testing new design iterations and strategies for prioritizing the product backlog
- - Provide a foundation so FRTIB can relaunch tsp.gov to successful outcomes in 2018
+We currently anticipate the following key outcomes for this work:
+ - To define users of tsp.gov, including their needs, motivations, and preferences when accessing the site. 
+ - To develop a vision and roadmap for tsp.gov that outlines design priorities for the site based on user needs, the mission of FRTIB, and stakeholder goals. The roadmap will leverage the US Web Design System and other best practices, including agile product development, to recommend specific opportunities for improving the user experience and content for the site.
+ - To provide coaching throughout the engagement that helps FRTIB work in a more agile, open, and human centered way. Examples of this may include developing a repeatable process for testing new design iterations and strategies for prioritizing the product backlog.
+ - To provide a foundation so that FRTIB can relaunch tsp.gov successfully in 2018.
 
 At the end of our work together, the in-house team at FRTIB will have developed additional skills and capabilities needed to successfully implement against a prioritized roadmap. 
 
@@ -35,22 +35,22 @@ These are the metrics we are following to determine the degree to which this eng
  - Whether or not the team, as a whole, is developing and testing hypotheses with users by using prototypes
  - Whether or not FRTIB team members are planning and leading research sessions
  - Whether or not FRTIB team members are leading standups, sprint planning, sprint review, and retrospectives
- - Whether or not we have created a roadmap, content recommendations, and research findings to deliver at the end of the engagement
+ - Whether or not we have created research findings, content recommendations, and a roadmap to deliver at the end of the engagement
 
 ## Roadmap
 
-The work we plan to take on are sequenced in our project [Trello board](https://trello.com/b/QvYdQMaY/18f-tsp-uswds), and we are developing with FRTIB a recommended roadmap for the next few quarters as part of the deliverables for this engagement so the design team has a clear path toward desired outcomes once this engagement ends.
+The work we plan to take on is sequenced in our project [Trello board](https://trello.com/b/QvYdQMaY/18f-tsp-uswds). We are also developing a recommended roadmap with FRTIB for the next few quarters as a deliverable for this engagement so the design team has a clear path toward desired outcomes once this engagement ends.
 
 ## Risks and mitigations
 
 Risk: We are not aligned on the key work to be done.
-Mitigation: We conducted a kickoff meeting to discuss scope and areas of opportunity, making sure we are aligned on what work we may and may not take on as part of this engagement. We also conduct sprint planning jointly with FRTIB team members empowered to make decisions about this project and are conducting “50%” and “75%” meetings to check in on progress and any changes in priorities over the course of the engagement.
+Mitigation: We conducted a kickoff meeting to discuss scope and areas of opportunity, making sure we are aligned on what work we may and may not take on as part of this engagement. We also conduct sprint planning jointly with FRTIB team members empowered to make decisions about this project and are conducting “50%” and “75%” meetings to check in on progress and any changes to priorities over the course of the engagement.
 
 Risk: FRITB is unable to continue this work once 18F rolls off the engagement.
-Mitigation: FRTIB and 18F team members work alongside each other every day and conduct activities, including daily stand-up meetings, sprint planning, retrospectives, and execution of the work together. Before the end of the engagement, we intend for FRTIB team members to lead all regular rituals and also have experienece leading activities such as hypotheses development, and user research, and vision-setting.
+Mitigation: FRTIB and 18F team members work alongside each other every day and conduct activities, including daily stand-up meetings, sprint planning, retrospectives, and execution of work together. Before the end of the engagement, we intend for FRTIB team members to lead all regular rituals and also have experience leading activities such as user research, hypotheses development, and vision-setting.
 
 Risk: Technical and workflow obstacles, including Github being blocked on the FRTIB network and lack of access to a shared documents tool, hamper our work.
-Mitigation: With 18F security leads, meet with IT staff to learn about their context and concerns about use of these tools so they can be unblocked. Simultaneously, focus on value where it can be delivered today using current tools.
+Mitigation: With 18F security leads, we met with FRTIB Office of Technology Services (OTS) staff to learn about their context and concerns regarding these tools so they can be unblocked. Simultaneously, we've focused on value where it can be delivered today using existing tools.
 
 ## Tools
  - [Research notes document](https://docs.google.com/document/d/1ddTUx7zpGNtUzcHHCnEqvFnB6QG-FNuoyOpU1OY-eXs/edit#)
@@ -64,7 +64,7 @@ Mitigation: With 18F security leads, meet with IT staff to learn about their con
 
 ## Tock and staffing
 
-- The 18F Tock code for billing time to this project is FRTIB WDS Consulting #428
+- The 18F Tock code for billing time to this project is FRTIB WDS Consulting #686
 - [18F staffing issue](https://github.com/18F/staffing-and-resources/issues/428)
 
 ## Prototype
@@ -100,7 +100,7 @@ If all goes well, visit the site at `http://localhost:4000`.
 
 ## Contributing
 
-To provide feedback on this repository [open an issue](https://github.com/GSA/tsp-uswds/issues/new).
+To provide feedback on this repository, [open an issue](https://github.com/GSA/tsp-uswds/issues/new).
 
 ### Public domain
 
