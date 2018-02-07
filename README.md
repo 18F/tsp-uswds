@@ -83,7 +83,7 @@ Mitigation: With 18F security leads, we met with FRTIB Office of Technology Serv
 
 **Lapedra Tolson (Multimedia specialist, FRTIB)** — Lead visual design, assisting in the implementation of the U.S. Web Design Standards. Assist with research recruitment, data collection, and analysis.
 
-**Tanner Nohe (Project Manager, FRTIB)** — Meet regularly with 18F project team to ensure roadblocks are removed and progress is forward moving. Foster relationships with 18F and other stakeholders at FRTIB that are critical to the ongoing success of our work.
+**Lorraine Terry (Project Manager, FRTIB)** — Meet regularly with 18F project team to ensure roadblocks are removed and progress is forward moving. Foster relationships with 18F and other stakeholders at FRTIB that are critical to the ongoing success of our work. (Note: Tanner Nohe served as Project Manager for FRTIB through 2/2018.)
 
 **Victor Zapanta (Experience designer/researcher, 18F)** — Lead research, user interviews, usability testing, user recruitment, hypothesis generation, prototype design, and research analysis.
 
