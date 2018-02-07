@@ -1,4 +1,4 @@
-# Federal Retirement Thrift Investment Board - Thrift Savings Plan (TSP.gov)
+# Federal Retirement Thrift Investment Board - Thrift Savings Plan (tsp.gov)
 
 ## Welcome!
 This repository contains documentation describing the Federal Retirement Thrift Investment Board (FRTIB) tsp.gov engagement. It is intended to be a place where project team members, stakeholders, and other interested parties can keep track of goals and resouces as we work together. 
@@ -9,7 +9,7 @@ FRTIB, the agency that administers the Thrift Savings Plan to help government em
 
 ## Users and stakeholders
 
-FRTIB serves over five million participants (current or former federal employees, or uniformed service members) as well as their beneficiaries. In the start of 2018, the agency began enrolling and transitioning thousands of uniformed service members into the TSP’s new “blended retirement” system, resulting in an estimate of hundreds of thousands of new users each year. 
+FRTIB serves over five million participants (current or former federal employees, and uniformed service members) as well as their beneficiaries. In the start of 2018, the agency began enrolling and transitioning thousands of uniformed service members into the TSP’s new “blended retirement” system, resulting in an estimate of hundreds of thousands of new users each year. 
 
 FRTIB also coordinates with over 100 payroll offices in the federal government that oversee those employees. In addition to serving users through tsp.gov, FRTIB manages a large volume of phone calls (2.8-3 million in 2017) in its call centers, a number which is likely to increase as users will start retiring in larger amounts. 
 
@@ -71,9 +71,9 @@ Mitigation: With 18F security leads, we met with FRTIB Office of Technology Serv
 
 ### About the prototype
 
-* This prototype uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
+* The prototype uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator. For more information about using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
-* The site is built with the [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high-quality components for modern websites. We're using the Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
+* The prototype is also built with the [U.S. Web Design System](https://designsystem.digital.gov), a set of reusable, high-quality components for modern websites. We're using the Web Design System [Jekyll theme](https://github.com/18F/uswds-jekyll) with some customized styles.
 
 ### Running prototype locally
 
