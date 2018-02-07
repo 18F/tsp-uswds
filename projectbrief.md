@@ -1,4 +1,4 @@
-# TSP.gov | Project brief
+# TSP.gov | Project brief (written late 2017)
 
 ## Project vision
 
@@ -157,22 +157,4 @@ Success will mean delivery of a roadmap, additional artifacts, and recommendatio
 |Delivery of final deliverables, including a roadmap for future work and other artifacts produced, possibly including mock-ups, prototypes, information architecture, research artifacts, design artifacts|Week of 2/26/2018|   
 |Final presentation in person|Week of 2/26/2018|
 
-## Project team and roles
 
-**Andrew Suprenant (Project Manager, 18F)** — Articulate vision for engagement in collaboration with the product owner. Regularly select work of highest value to be prioritized in sprints. Cultivate alignment of product owner, development team, and key stakeholders. Identify and work to resolve obstacles. Highlight and work to mitigate risk. Ensure progress moves forward and that the 18F team delivers. 
-
-**Anna Heller Sebok (Content designer/strategist, 18F)** — Evaluate existing content artifacts and tools. Collaborate with FRTIB content specialist on implementation of content strategy techniques and refinement of TSP.gov content. Assist with research recruitment, data collection, and analysis.
-
-**Brian Hurst (Front end developer, 18F)** — Lead prototyping and development in collaboration with development team. Guide team through implementation of U.S. Web Design Standards.
-
-**Donald Ferracci (Product Owner, FRTIB)** — Serve as single point of contact for FRTIB for purposes of decisions needed to move the engagement forward. Collaborate with the development team to create prototypes and implement the U.S. Web Design Standards on FRTIB’s platform. Keep team and stakeholders informed, soliciting their feedback. Highlight and work to mitigate risks. Communicate feedback and help prioritize the team’s effort. Assist with research recruitment, data collection, and analysis.
-
-**Jamelle Thomas (Content specialist, FRTIB)** — Collaborate with 18F content designer on implementation of content strategy techniques and refinement of TSP.gov content. Assist with research recruitment, data collection, and analysis.
-
-**Kathryn Connolly (Account Manager, 18F)** — Provide support to project team and serve as liaison between FRTIB and 18F. 
-
-**Lapedra Tolson (Multimedia specialist, FRTIB)** — Lead visual design, assisting in the implementation of the U.S. Web Design Standards. Assist with research recruitment, data collection, and analysis.
-
-**Tanner Nohe (Project Manager, FRTIB)** — Meet regularly with 18F project team to ensure roadblocks are removed and progress is forward moving. Foster relationships with 18F and other stakeholders at FRTIB that are critical to the ongoing success of our work.
-
-**Victor Zapanta (Experience designer/researcher, 18F)** — Lead research, user interviews, usability testing, user recruitment, hypothesis generation, prototype design, and research analysis.
