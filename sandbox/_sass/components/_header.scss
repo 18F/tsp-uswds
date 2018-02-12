@@ -1,5 +1,5 @@
 .usa-logo {
-  margin-left: 1.5rem;
+  line-height: 1;
 
   img {
     height: 3rem;
@@ -14,26 +14,10 @@
 }
 
 @media (min-width: #{$large-screen}) {
-  .usa-nav-container {
-    padding: 3rem;
-  }
-
-  .usa-navbar {
-    height: auto;
-  }
-
-  .usa-header-extended .usa-navbar {
-    width: 30%;
-  }
-
-  .usa-header-extended .usa-logo {
-    bottom: auto;
-    position: static;
-  }
-
   .usa-logo {
-    line-height: initial;
+    line-height: 1;
     margin-left: 0;
+    width: 30%;
 
     img {
       height: auto;
@@ -41,22 +25,29 @@
     }
   }
 
-  .usa-nav {
-    padding-top: 1.5rem;
+  .usa-nav-secondary-links li {
+    display: inline-block;
+    padding: 0 1.5rem;
+
+    &:not(:last-child)::after {
+      content: none;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
   }
 
-  .usa-nav-primary > li > a {
-    font-size: $base-font-size;
-    font-weight: $font-normal;
-  }
-
-  .usa-nav-secondary-links > li:first-child > a {
+  .usa-nav-secondary-links > li:last-child > a {
     background-color: $color-blue;
     border-radius: $border-radius;
     color: $color-white;
     font-size: 1.5rem;
     font-weight: 700;
+    line-height: 1;
     padding: .75rem 1.5rem;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
 
     &:hover {
       background-color: $color-blue-darkest;

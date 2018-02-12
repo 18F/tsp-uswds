@@ -20,11 +20,11 @@ primary:
     href: #
 
 secondary:
-  - text: Login
-    href: #
   - text: Contact
     href: #
   - text: Glossary
+    href: #
+  - text: Login
     href: #
 
 docs:
