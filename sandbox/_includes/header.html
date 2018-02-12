@@ -3,9 +3,4 @@
 {% if header.usa_banner %}
   {% include components/banner.html %}
 {% endif %}
-
-{% if header.type == 'basic' %}
-  {% include components/header--basic.html %}
-{% else %}
-  {% include components/header--extended.html %}
-{% endif %}
+  {% include components/header--custom.html %}

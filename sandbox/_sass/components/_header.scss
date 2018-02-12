@@ -22,11 +22,11 @@
     height: auto;
   }
 
-  .usa-header-basic .usa-navbar {
+  .usa-header-extended .usa-navbar {
     width: 30%;
   }
 
-  .usa-header-basic .usa-logo {
+  .usa-header-extended .usa-logo {
     bottom: auto;
     position: static;
   }
@@ -50,7 +50,7 @@
     font-weight: $font-normal;
   }
 
-  .usa-nav-primary > li:first-child > a {
+  .usa-nav-secondary-links > li:first-child > a {
     background-color: $color-blue;
     border-radius: $border-radius;
     color: $color-white;

@@ -10,6 +10,16 @@
 #   links: primary
 #
 primary:
+  - text: Get started
+    href: #
+  - text: Learn about your fund options
+    href: #
+  - text: Borrow from your retirement
+    href: #
+  - text: Preparing for retirement
+    href: #
+
+secondary:
   - text: Login
     href: #
   - text: Contact
