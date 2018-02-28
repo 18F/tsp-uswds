@@ -23,17 +23,52 @@ To manage our day-to-day work, we practice Scrumban, which means we practice [Ka
 
 ## Rituals
 
+We run regular practices, or rituals, to structure our work. Though we regularly fine-tune how we do these, we perform them regulary so we can focus more on output than necessarily how we're doing the work.
+
 ### Standup
+
+Daily standups allow us to regularly share where we are in our work and also allow us to identify when teammates are blocked, overwhelmed, or have extra capcacity to help.
+
+What this looks like:
 - A quick (15-minute) video or asynchronous (Slack) daily standup to communicate about the status of the work we commit to each sprint
+- Project manager or any other team member can facilitate
+- We go issue by issue rather than person by person to keep our focus primarily on the work
+- This isn't a status report, but we should inquire if any pieces of work seems stalled or any team members seem underutilized
 
 ### Sprint review/demo
+
+Sprint reviews serve two purposes: they are an opportunity to get immediate feedback and answer questions from stakeholders and also motivate the team to get as much work done as possible before the end of the sprint (since we only demo finished work).
+
+What this looks like:
 - Bi-weekly sprint demos for stakeholders and colleagues of our recent work to share and get feedback
+- We currently ask team members to make slides for the work they've completed, but we can also do live demos
 
 ### Retrospectives
-- Bi-weekly retrospectives so we can celebrate and build on successes, identify and mitigate failure, and get better with each cycle
+
+We run retrospectives so we can regularly get better in our work – building on strengths and mitigating weaknesses while giving the team time and space to reflect on its work.
+
+What this looks like:
+- Project manager or any other team member facilitates
+- We write down individually what we feel went well and what didn't in the past sprint, vote to highlight which items we discuss, discuss them, and write down any actions we plan on taking
+- If we write down many possible actions, we can vote on these, as well
 
 ### Sprint planning and grooming
-- Regular higher-level planning and grooming sessions
+
+So we can tackle the highest-value work each sprint, know what we'll be working on, and know what we are not working on, we plan our sprint together and groom issues so we know what the work looks like when it is done. 
+
+What planning looks like:
+- Product owner brings goals and, as much as possible, groomed stories to the team for prioritization and selection
+- PO has final call on what is included and what is excluded from the sprint
+- When a tentative plan is in place, we do a vote of confidence with the team. If we collectively vote over 60%, we consider the plan set and begin work
+
+What grooming looks like:
+- We groom issues by adding acceptance criteria (for which the PO is reponsible) and, as is useful, potential implementation steps (owned by the team)
+- This should be done by the end of the sprint planning session or, ideally, sooner
+- Three days before sprint planning can be a good to time to meet to groom issues in advance
+- The whole team doesn't need to attend grooming, but about half the team generally should
+- The PO can groom issues and also ask team members who may know most about the work to help groom them
+- Issues should be groomed to take three days or less for one contributing team member to complete
+- We like to have enough issues groomed to stay productive if our velocity is faster than expected. However, remember that groomed issues that we don't ever pick up are waste!
 
 ## Kanban process
 
