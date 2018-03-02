@@ -1,6 +1,6 @@
 title: Thrift Savings Plan
 description:
-baseurl: "/sandbox" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # To enable search, uncomment the search section
