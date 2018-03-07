@@ -5,7 +5,9 @@ This repository contains documentation describing the Federal Retirement Thrift 
 
 ## History
 
-FRTIB, the agency that administers the Thrift Savings Plan to help government employees save for retirement, has engaged 18F to help FRTIB’s in-house design team in the Office of Communications and Education (OCE) develop capabilities in agile software development, user-centered design, and content strategy. This work will set direction and build practices to continue redesigning tsp.gov in an agile and user-centered way. 
+The Federal Retirement Thrift Investment Board (FRTIB) was created by the Federal Employees' Retirement System Act of 1986 (FERSA) to administer the Thrift Savings Plan as one element in the three-part retirement program for employees covered under the Federal Employee Retirement System (FERS). In the nearly thirty years since the TSP received the first civilian contributions, it has expanded to cover members of the uniformed services and spousal beneficiaries. It is now the largest defined contribution retirement plan with more than 4.9 million participants and nearly $470 billion in assets under management.
+
+FRTIB has engaged 18F to help FRTIB’s in-house design team in the Office of Communications and Education (OCE) develop capabilities in agile software development, user-centered design, and content strategy. This work will set direction and build practices to continue redesigning tsp.gov in an agile and user-centered way. 
 
 ## Users and stakeholders
 
