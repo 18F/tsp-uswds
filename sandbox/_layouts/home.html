@@ -21,10 +21,6 @@ layout: default
 {% endcapture %}
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 
-<section class="usa-section">
-  <div class="usa-grid">
-    {{ content }}
-  </div>
-</section>
+{{ content }}
 
 {% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
