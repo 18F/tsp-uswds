@@ -8,71 +8,41 @@ hero:
   callout:
     alt: "Invest in your future:"
     text: Plan for a lifetime with the TSP
-  button:
-    href: /
-    text: Learn more
   content: Preparing for retirement can be overwhelming. The Thrift Savings Plan is here to make your life easier.
 
 ---
 
-<div class="help-grid">
-  <div class="usa-grid-full md-flex">
-    <div class="usa-width-one-half flex flex-column">
-      <h3 class="h2 normal flex">
-        <img src="{{ site.baseurl }}/assets/img/icons/lock.svg" width="35" alt="" class="mr1">
-        <a href="#">Getting started</a>
-      </h3>
-      <p>Setting up your account.</p>
-      <ul class="flex-auto">
-        <li><a href="#">How do I sign into my account?</a></li>
-        <li><a href="#">Where can I find my TSP account number?</a></li>
-        <li><a href="#">What if I forgot my User ID or password?</a></li>
-        <li><a href="#">How do I update my contact information?</a></li>
-      </ul>
-      <a href="#" class="usa-button block">View all 7 articles &raquo;</a>
-    </div>
-    <div class="usa-width-one-half flex flex-column">
-      <h3 class="h2 normal flex">
-        <img src="{{ site.baseurl }}/assets/img/icons/sun.svg" width="35" alt="" class="mr1">
-        <a href="#">I'm retiring</a>
-      </h3>
-      <p>Getting ready for the next phase of your life.</p>
-      <ul class="flex-auto">
-        <li><a href="#">I'm retiring next year. What should I do to prepare?</a></li>
-        <li><a href="#">I got a late start on saving. What can I do to make up for it?</a></li>
-        <li><a href="#">What are my tax treatment options in retirement?</a></li>
-      </ul>
-      <a href="#" class="usa-button block">View all 6 articles &raquo;</a>
+
+<section class="home-getting-started usa-section-dark py3">
+  <div class="usa-grid">
+    <h2>Get started with the TSP</h2>
+    <div class="usa-grid">
+      <div class="usa-width-one-third px2">
+        <h3><img src="{{ site.baseurl }}/assets/img/icons/lock.svg" width="20" alt="" class="mr1">Account basics</h3>
+        <p>Establish your account review your default settings, and make sure your information is up to date.</p>
+      </div>
+      <div class="usa-width-one-third px2">
+        <h3><img src="{{ site.baseurl }}/assets/img/icons/compass.svg" width="20" alt="" class="mr1">Choosing how to save</h3>
+        <p>You have a variety of ways to save for retirement with the TSP. Learn more about your fund options and how to pick what’s right for you.</p>
+      </div>
+      <div class="usa-width-one-third px2">
+        <h3><img src="{{ site.baseurl }}/assets/img/icons/sun.svg" width="20" alt="" class="mr1">Manage life changes</h3>
+        <p>Getting married? Going on deployment? Dealing with economic hardship? Need to make a transfer? We’ll guide you through these tasks step-by-step.</p>
+      </div>
     </div>
   </div>
-  <div class="usa-grid-full md-flex">
-    <div class="usa-width-one-half flex flex-column">
-      <h3 class="h2 normal flex">
-        <img src="{{ site.baseurl }}/assets/img/icons/compass.svg" width="35" alt="" class="mr1">
-        <a href="#">Life events</a>
-      </h3>
-      <p>Preparing for life changes that could affect your contributions.</p>
-      <ul class="flex-auto">
-        <li><a href="#">I'm changing jobs. What do I need to do with my account?</a></li>
-        <li><a href="#">How I manage my TSP account while on Active Duty?</a></li>
-        <li><a href="#">My family makeup is changing. Should I update my information?</a></li>
-      </ul>
-      <a href="#" class="usa-button block">View all 10 articles &raquo;</a>
+</section>
+
+<div class="usa-section home-about">
+  <div class="usa-grid flex items-stretch">
+    <div class="usa-width-two-thirds border-right">
+      <h2>What is the TSP?</h2>
+      <p>The Thrift Savings Plan, also known as the TSP, is a retirement savings and investment plan for federal employees and members of the uniformed services, including the Ready Reserve. It offers the same types of savings and tax benefits as many 401(k) plans, with low costs, diversified fund options, and the ability to transfer additional eligible funds into your account.</p>
     </div>
-    <div class="usa-width-one-half flex flex-column">
-      <h3 class="h2 normal flex">
-        <img src="{{ site.baseurl }}/assets/img/icons/users.svg" width="35" alt="" class="mr1">
-        <a href="#">I'm a beneficiary</a>
-      </h3>
-      <p>Understanding my benefits as a beneficiary.</p>
-      <ul class="flex-auto">
-        <li><a href="#">What are my rights as a beneficiary?</a></li>
-        <li><a href="#">Can I combine my existing TSP accounts?</a></li>
-        <li><a href="#">How do I initiate a full withdrawal?</a></li>
-        <li><a href="#">What happens when the primary participant passes away?</a></li>
-        <li><a href="#">How do I change my beneficiary?</a></li>
-      </ul>
-      <a href="#" class="usa-button block">View all 6 articles &raquo;</a>
+    <div class="usa-width-one-third">
+      <h3>Keep up to date with important announcements from the TSP</h3>
+      <p>We'll send you updates, announcements and the <a href="#">latest news</a> from the Thrift Savings Plan.</p>
+      <a href="#" class="usa-button">Sign up</a>
     </div>
   </div>
 </div>
