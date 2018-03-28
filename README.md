@@ -64,7 +64,7 @@ Mitigation: With 18F security leads, we met with FRTIB Office of Technology Serv
  - [Retrospective board](https://trello.com/b/vPwxwObJ/18f-frtib-tspgov-uswds-retrospective)
  - [Roadmap: PI2-5](https://app.mural.ly/t/gsa6/m/gsa6/1519848935496/20506d2f4226d08793b749a667693505900fdfed)
  - [PI2 planning](https://app.mural.ly/t/gsa6/m/gsa6/1520043717863/869645a00baf5a221b61f60b17f140d3ccfef2db)
- - [Final report](https://docs.google.com/document/d/1Vkb4kTYZ2B6ZN0lJi6jcnhFGGqyiOtchaKqtG_5azrA/edit)
+ - Final report ([Google Doc](https://docs.google.com/document/d/1Vkb4kTYZ2B6ZN0lJi6jcnhFGGqyiOtchaKqtG_5azrA/edit)) ([PDF](tsp.gov%20WDS%20report.pdf))
 
 
 ## Tock and staffing
